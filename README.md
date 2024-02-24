@@ -24,6 +24,8 @@
 ***This module will no longer be developed!*** It has been replaced by [PSWriteOffice](https://github.com/EvotecIT/PSWriteOffice) project which will be combination of Word, Excel and in future PowerPoint features. No new features, fixes will be added, but it will continue to work. Due to license changes to DLL it's not possible to support this project. **PSWriteOffice** is complete rewrite and cross-platform.
 
 Note from forkers - our fork is only designed to add width and height to charts, nothing more. Do not expect us to respond to issues as we genuinely don't care since it's not our main program.
+
+To EvotecIT - if you want to merge this go ahead we don't care :3
 ***
 
 _PSWriteWord_ is PowerShell module to create Microsoft Word documents without Microsoft Word installed. You can read some more information on my [website](https://evotec.xyz/hub/scripts/pswriteword-powershell-module/).
