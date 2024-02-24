@@ -1,5 +1,6 @@
 ﻿### PSWriteWord Release History
-
+#### - 1.1.16
+  - Added ability to set width and height to images (made specifically for a custom project by binarie and EarthToFatt
 #### - 1.1.15
   - Added `Set-WordTextStyle` - [#73](https://github.com/EvotecIT/PSWriteWord/pull/73) - tnx ylepine
   - Added `Style` parameter for `Add-WordText` to be able to apply a existing Style other than Heading 1-9 - [#73](https://github.com/EvotecIT/PSWriteWord/pull/73) - tnx ylepine
